@@ -1,0 +1,31 @@
+.head{
+    margin: 0;
+    height: 10rem;
+    background-color: #263ed0;
+}
+
+html{
+    font-size: 16px;
+    background: linear-gradient(45deg, #795492, #366e88);
+}
+
+.card{
+    border: 3px #884646 solid;
+    border-radius: 6%;
+    box-shadow: 10px 9px;
+    height: 45rem;
+    width: 40rem;
+    background-color:#d6a695;
+    margin: -3em auto;
+}
+
+.mark_1{
+    position: relative;
+    width: 7em;
+    top: 90px;
+}
+
+.hello{
+    font-size: 1.5em;
+    text-align: center;
+}
